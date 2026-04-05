@@ -1,0 +1,27 @@
+{
+	"id": "8349fbb2-6578-43b6-9cb7-c37d1e9fb865",
+	"name": "QA-Environment",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-04-05T04:31:00.610Z",
+	"_postman_exported_using": "Postman/11.71.5"
+}
